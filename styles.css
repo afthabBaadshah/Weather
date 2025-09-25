@@ -1,0 +1,49 @@
+body {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background: #e3f2fd;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    padding: 20px; /* Ensures spacing on smaller devices */
+    box-sizing: border-box;
+}
+
+.container {
+    background: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    padding: 30px;
+    text-align: center;
+    width: 100%;
+    max-width: 350px; /* Prevents it from being too large on wide screens */
+    min-width: 250px; /* Ensures it's usable on very small screens */
+    box-sizing: border-box; /* Ensures padding doesn't affect width */
+}
+
+h1 {
+    color: #1565c0;
+    margin-bottom: 20px;
+}
+
+input, button {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 2px solid #1565c0;
+    border-radius: 8px;
+    outline: none;
+    box-sizing: border-box;
+}
+
+button {
+    background: #1565c0;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+#weatherResult {
+    margin-top: 20px;
+    font-size: 18px;
+}
