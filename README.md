@@ -28,4 +28,5 @@ weather-app/
 - **WeatherAPI**
 
   
-<img width="1904" height="959" alt="Weather App Screenshot" src="https://github.com/user-attachments/assets/337ec7e0-f045-4924-bb98-90d71a9c7d23" />
+<img width="1904" height="864" alt="Weather App SS1" src="https://github.com/user-attachments/assets/c768cb0d-8e41-4c37-b8bc-46fcef903eaa" />
+<img width="1905" height="868" alt="Weather App SS2" src="https://github.com/user-attachments/assets/b042439e-8b76-4748-b605-da1e92e00807" />
